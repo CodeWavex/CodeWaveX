@@ -9,8 +9,8 @@ A CodeWave é uma equipe formada por seis integrantes, com diferentes funções 
 Integrantes
 
 - Everton — Analista de Sistemas
-- Gustavo — Desenvolvedor Front-end
-- Pedro — Desenvolvedor Back-end
+- Pedro — Desenvolvedor Front-end
+- Gustavo — Desenvolvedor Back-end
 - Júlia — Tester / QA
 - Vitória — Scrum Master
 - Ryan — Product Owner
