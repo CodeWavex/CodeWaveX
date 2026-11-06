@@ -1,4 +1,4 @@
-🌊 CodeWavex
+🌊 CodeWaveX
 
 «“Juntos transformamos ideias em soluções.”»
 
