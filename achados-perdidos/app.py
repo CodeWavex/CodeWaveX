@@ -1,3 +1,4 @@
+
 from cadastro import cadastrar_objeto
 from pesquisa import pesquisar_objeto
 from listar import listar_objetos
@@ -12,7 +13,7 @@ def menu():
     print("4 - Devolver objeto")
     print("5 - Sair")
 
-    return input("Escolha uma opção: ").strip()
+    return input("\nEscolha uma opção: ").strip()
 
 
 def iniciar_sistema():
@@ -23,6 +24,7 @@ def iniciar_sistema():
 
         if opcao == "1":
             objeto = cadastrar_objeto()
+
             if objeto is not None:
                 objetos.append(objeto)
 
@@ -40,7 +42,7 @@ def iniciar_sistema():
             break
 
         else:
-            print("\nOpção inválida. Escolha de 1 a 5.")
+            print("\nOpção inválida! Escolha uma opção de 1 a 5.")
 
 
 if __name__ == "__main__":
