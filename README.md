@@ -35,7 +35,7 @@ Contribuição: garantir que toda a equipe saiba exatamente o que deve ser desen
 
 ---
 
-🎨 Gustavo — Desenvolvedor Front-end
+🎨 Pedro — Desenvolvedor Front-end
 
 Responsabilidades: cuidar da parte visual e da interface do sistema.
 
@@ -45,7 +45,7 @@ Contribuição: tornar o sistema fácil e agradável de usar.
 
 ---
 
-⚙️ Pedro — Desenvolvedor Back-end
+⚙️ Gustavo — Desenvolvedor Back-end
 
 Responsabilidades: desenvolver a lógica e o funcionamento interno do sistema.
 
