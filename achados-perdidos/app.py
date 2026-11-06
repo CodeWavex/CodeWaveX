@@ -27,15 +27,19 @@ def iniciar_sistema():
 
             if objeto is not None:
                 objetos.append(objeto)
+            input("Aperte ENTER para continuar...")
 
         elif opcao == "2":
             pesquisar_objeto(objetos)
+            input("Aperte ENTER para continuar...")
 
         elif opcao == "3":
             listar_objetos(objetos)
+            input("Aperte ENTER para continuar...")
 
         elif opcao == "4":
             devolver_objeto(objetos)
+            input("Aperte ENTER para continuar...")
 
         elif opcao == "5":
             print("\nSistema encerrado!")
@@ -43,6 +47,7 @@ def iniciar_sistema():
 
         else:
             print("\nOpção inválida! Escolha uma opção de 1 a 5.")
+            input("Aperte ENTER para continuar...")
 
 
 if __name__ == "__main__":
